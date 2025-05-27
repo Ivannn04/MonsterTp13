@@ -1,0 +1,82 @@
+[
+  {
+    "Nama": "Zinogre",
+    "spesies": "fanged wyverns",
+    "elemen": "petir",
+    "Habitat": "ancient forest",
+    "kelemahan": "es",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/zinogre_reveal.jpg"
+  },
+  {
+    "Nama": "Rathalos",
+    "spesies": "flying wyverns",
+    "elemen": "api",
+    "Habitat": "ancient forest",
+    "kelemahan": "naga",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rathalos-monster-hunter-world-large-monster.jpg"
+  },
+  {
+    "Nama": "Lagiacrus",
+    "spesies": "leviathan",
+    "elemen": "listrik",
+    "Habitat": "flooded forest",
+    "kelemahan": "api",
+    "Poster": "https://monsterhunterwiki.org/images/thumb/6/6c/MHGU-Lagiacrus_Render.png/600px-MHGU-Lagiacrus_Render.png"
+  },
+  {
+    "Nama": "Barioth",
+    "spesies": "flying wyverns",
+    "elemen": "es",
+    "Habitat": "tundra",
+    "kelemahan": "api",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/first_barioth_encounter.jpg"
+  },
+  {
+    "Nama": "Nargacuga",
+    "spesies": "flying wyverns",
+    "elemen": "tidak ada",
+    "Habitat": "ancient forest",
+    "kelemahan": "petir",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/nargacuga-large-monster-icerborne-mhw-wiki-guide.jpg"
+  },
+  {
+    "Nama": "Mizutsune",
+    "spesies": "leviathan",
+    "elemen": "air",
+    "Habitat": "misty peaks",
+    "kelemahan": "petir",
+    "Poster": "https://monsterhunterwilds.wiki.fextralife.com/file/Monster-Hunter-Wilds/mizutsune-large-monster-mhwilds-wiki-guide.jpg"
+  },
+  {
+    "Nama": "Diablos",
+    "spesies": "flying wyverns",
+    "elemen": "tidak ada",
+    "Habitat": "desert",
+    "kelemahan": "es",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/diablos_monster_hunter_world_large.jpg"
+  },
+  {
+    "Nama": "Tigrex",
+    "spesies": "fanged wyverns",
+    "elemen": "tidak ada",
+    "Habitat": "mountains",
+    "kelemahan": "petir",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/tigrex-large-monster-icerborne-mhw-wiki-guide.jpg"
+  },
+  {
+    "Nama": "Kushala Daora",
+    "spesies": "elder dragon",
+    "elemen": "angin",
+    "Habitat": "highlands",
+    "kelemahan": "petir",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/kushala-daora-large-monster-hunter-world-mhw.jpg"
+  },
+  {
+    "Nama": "Rajang",
+    "spesies": "fanged beast",
+    "elemen": "petir",
+    "Habitat": "volcanic region",
+    "kelemahan": "es",
+    "Poster": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/rajang-mhw-wiki-guide.jpg"
+  }
+]
